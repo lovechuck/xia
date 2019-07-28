@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="552ccd32-aca2-4f87-bad0-c98280b207bb" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blog/operation.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/feed.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/response.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mongo/mongo.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/redis/redis.go" afterDir="false" />
-    </list>
+    <list default="true" id="552ccd32-aca2-4f87-bad0-c98280b207bb" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
