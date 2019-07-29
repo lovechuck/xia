@@ -20,10 +20,8 @@ class MyApp extends StatelessWidget {
         // is not restarted.
         primarySwatch: Colors.blue,
       ),
-      home: Scaffold(
-        body: MyHomePage(
-          title: "ceshi",
-        ),
+      home: MyHomePage(
+        title: "今日热点",
       ),
     );
   }
