@@ -32,7 +32,7 @@ func Search(ctx *gin.Context) {
 				return
 			}
 
-			redis.Set(key, feed, 24*3600)
+			redis.Set(key, feed, 2*3600)
 			ctx.JSON(http.StatusOK, model.Response{Code: 0, Data: feed})
 			return
 		}
