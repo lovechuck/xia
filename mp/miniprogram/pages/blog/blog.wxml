@@ -1,0 +1,7 @@
+<!-- WXML示例代码 -->
+<mp-cells>
+    <mp-cell wx:for="{{items}}">
+        <view>{{item.Title}}</view>
+        <view slot="foot">{{item.Summary}}</view>
+    </mp-cell>
+</mp-cells>
